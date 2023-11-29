@@ -9,6 +9,10 @@ Cosas que aprendi:
 - Aprendi tambien a manejar y a leer datos desde archivos .csv, .txt , etc.
 - En conclusion, nos pareció un trabajo medianamente fácil de implementar y mas siendo Python un lenguaje no especializado en el manejo de objetos
 
+![image](https://github.com/TitoPig/BibliotecaPy/assets/135242322/5bba6ea5-b2cf-44db-94d0-3db4c74a9f31)
+![image](https://github.com/TitoPig/BibliotecaPy/assets/135242322/c84318e1-70f4-4219-90ed-426b34cfca16)
+![image](https://github.com/TitoPig/BibliotecaPy/assets/135242322/f48649b5-c074-4895-849d-9728cea26f37)
+
 ##LibraryPy
 
 Group project with the Python language. We create an app applying the object-oriented paradigm, managing classes. Modulated code and with rustic but functional interfaces that facilitate functionality.
